@@ -1,0 +1,12 @@
+C dilinde yazılacak ödevde Borsada emirler sonrası kişinin toplam kar/zararını ve güncel 
+Portföyü ekrana yazdırılır. Program açıldığında hisseler.json isimli dosyadan bütün hisseler ve 
+güncel değerleri okunur. Daha sonra portfoy.json isimli dosyadan kişinin satın almış olduğu 
+hisseler ve kaç adet oldukları okunur. Kişinin verdiği emirler emirler.json dosyasından 
+okunur. 
+
+Oluşturulan yapılar (struct):
+• Hisse Yapısı
+• Portföy Yapısı
+• Banka Yapısı
+• Emir Yapısı
+• Test 
